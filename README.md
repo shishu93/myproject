@@ -1,2 +1,0 @@
-# myproject
-welcome to devops
